@@ -1,0 +1,6 @@
+float32 side_length
+---
+bool success
+uint8 goals_sent
+---
+uint8 current_side
